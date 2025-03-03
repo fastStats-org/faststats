@@ -2,3 +2,7 @@
 	path = backend
 	url = https://github.com/fastStats-org/backend
 	branch = master
+[submodule "metrics"]
+	path = metrics
+	url = https://github.com/fastStats-org/metrics
+	branch = master
