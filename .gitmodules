@@ -6,3 +6,7 @@
 	path = metrics
 	url = https://github.com/fastStats-org/metrics
 	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/fastStats-org/frontend
+	branch = master
